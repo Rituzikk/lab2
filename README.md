@@ -28,29 +28,38 @@
 
 ## Результаты тестирования
 
-**Тест 1.1 (Площадь треугольника)**
 <img width="502" height="232" alt="Рисунок1" src="https://github.com/user-attachments/assets/24b590e3-73bb-4ed8-a8d1-89570bd8b2c0" />
 
-**Тест 1.2 (Площадь треугольника)**
+**Тест 1.1 (Площадь треугольника)**
+
 <img width="497" height="233" alt="Рисунок2" src="https://github.com/user-attachments/assets/56cdadca-1cd6-4ffa-81a5-957216f03bb5" />
 
-**Тест 1.3 (Площадь треугольника)**
+**Тест 1.2 (Площадь треугольника)**
+
 <img width="492" height="238" alt="Рисунок3" src="https://github.com/user-attachments/assets/487a958e-1d64-4f25-b498-19ad41f665b6" />
 
-**Тест 2.1 (Конвертер расстояний)**
+**Тест 1.3 (Площадь треугольника)**
+
 <img width="618" height="257" alt="Рисунок4" src="https://github.com/user-attachments/assets/c10d6f7c-76cf-4849-8f65-f28e783d05d4" />
 
-**Тест 2.2 (Конвертер расстояний)**
+**Тест 2.1 (Конвертер расстояний)**
+
 <img width="617" height="252" alt="Рисунок5" src="https://github.com/user-attachments/assets/6c1b7179-66e1-4a84-ac59-234f31b5bb8a" />
 
-**Тест 2.3 (Конвертер расстояний)**
+**Тест 2.2 (Конвертер расстояний)**
+
 <img width="618" height="252" alt="Рисунок6" src="https://github.com/user-attachments/assets/91597765-e6c2-4955-857a-c18218c28926" />
 
-**Тест 3.1 (Високосный год)**
+**Тест 2.3 (Конвертер расстояний)**
+
 <img width="420" height="192" alt="Рисунок7" src="https://github.com/user-attachments/assets/728f21ee-42e1-4430-90f6-18c3fe15d0d9" />
 
-**Тест 3.2 (Високосный год)**
+**Тест 3.1 (Високосный год)**
+
 <img width="420" height="186" alt="Рисунок8" src="https://github.com/user-attachments/assets/ec49d4f0-4fbc-4b41-90aa-c4ef33e803bf" />
 
-**Тест 3.3 (Високосный год)**
+**Тест 3.2 (Високосный год)**
+
 <img width="418" height="181" alt="Рисунок9" src="https://github.com/user-attachments/assets/0e6a227e-c62c-47d2-a508-447542c67cdb" />
+
+**Тест 3.3 (Високосный год)**
